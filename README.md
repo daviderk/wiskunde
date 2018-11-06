@@ -15,9 +15,13 @@ Dan zou de output het volgende moeten zijn:
 
 truncatedOctahedron
 Het aantal vlakken is: 14
+
 Het aantaal ribben is: 36
+
 Het aantaal hoekpunten is: 24
+
 De regel van Euler klopt
+
 
 Het script werkt ook met nog een andere vorm: truncatedTetraeder.
 
