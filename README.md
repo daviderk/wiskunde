@@ -13,22 +13,27 @@ C:\dejuistemap> node ArchimedischeLichamen.js truncatedOctahedron
 
 Dan zou de output het volgende moeten zijn:
 
-truncatedOctahedron
-Het aantal vlakken is: 14
+  truncatedOctahedron
 
-Het aantaal ribben is: 36
+  Het aantal vlakken is: 14
 
-Het aantaal hoekpunten is: 24
+  Het aantaal ribben is: 36
 
-De regel van Euler klopt
+  Het aantaal hoekpunten is: 24
+
+  De regel van Euler klopt
 
 
 Het script werkt ook met nog een andere vorm: truncatedTetraeder.
 
 C:\dejuistemap> node ArchimedischeLichamen.js truncatedTetraeder
 
-truncatedTetraeder
-Het aantal vlakken is: 8
-Het aantaal ribben is: 18
-Het aantaal hoekpunten is: 12
-De regel van Euler klopt
+  truncatedTetraeder
+
+  Het aantal vlakken is: 8
+
+  Het aantaal ribben is: 18
+
+  Het aantaal hoekpunten is: 12
+
+  De regel van Euler klopt
